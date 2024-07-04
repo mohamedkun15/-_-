@@ -1,6 +1,6 @@
 ## `مـرحـبـا بـكـم فـي حـسـابـي الـرسـمـي`
 
-<a href="https://github.com/mohamedkun15"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola+Soy+Zam.+Creador+de+CuriosityBot.&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor&image=https://telegra.ph/file/abe42c9e1a317075e6083.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=mohitachi9&whatsapp=itachi_xvi&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/mohamedkun15"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola+Soy+Zam.+Creador+de+CuriosityBot.&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam._.bl&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>
 _اسمي محمد ، المعروف باسم ايتاتشي. تركيز اهتماماتي كلها في دراستي و تطوير الروبوتات. أنا أعيش في مصر. وانا صاحب ماكيما بوت._
 
 `حـسـابـاتـي`
