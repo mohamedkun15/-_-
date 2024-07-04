@@ -1,6 +1,6 @@
 ## `مـرحـبـا بـكـم فـي حـسـابـي الـرسـمـي`
 
-<a href="https://github.com/mohamedkun15"><img src="https://cardivo.vercel.app/api?name=𝑰𝒕𝒂𝒄𝒉𝒊𝑿𝑽𝑰&description=مرحباً+انا+ايتاتشي.+مطور+مشروع+ماكيما+بوت.&image=https://telegra.ph/file/abe42c9e1a317075e6083.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=mohitachi9._.bl&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/mohamedkun15"><img src="https://cardivo.vercel.app/api?name=𝑰𝒕𝒂𝒄𝒉𝒊𝑿𝑽𝑰&description=مرحباً+انا+ايتاتشي.+مطور+مشروع+ماكيما+بوت.&image=https://telegra.ph/file/abe42c9e1a317075e6083.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=mohitachi9&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>
 _اسمي محمد ، المعروف باسم ايتاتشي. تركيز اهتماماتي كلها في دراستي و تطوير الروبوتات. أنا أعيش في مصر. وانا صاحب ماكيما بوت._
 
 `حـسـابـاتـي`
